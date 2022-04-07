@@ -14,4 +14,5 @@ It is always nice to get support and bring good mojo 😺
 Also if you use my work in your projects, do not be shy and share it, it is always nice to be mentioned.   
 
 
-ESP3D 3.0 status : https://github.com/users/luc-github/projects/1/views/1
+[![Project Page ESP3D 3.0](https://img.shields.io/badge/Project%20page-ESP3D%203.0-blue)](https://github.com/users/luc-github/projects/1/views/1)
+
