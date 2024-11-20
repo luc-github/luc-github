@@ -2,6 +2,8 @@
 
 I am the developer of [ESP3D](https://github.com/luc-github/ESP3D), [ESP3DLib](https://github.com/luc-github/ESP3DLib), [ESP3D-WEBUI](https://github.com/luc-github/ESP3D-WEBUI) and several others projects as main developer or contributor.
 
+You can have better view of my current projects [here](https://github.com/luc-github/esp3d-portfolio/blob/main/README.md)
+
 If you need, you can contact me by email or by [discord](https://discord.com/invite/Z4ujTwE).
 
 If you like my contributions/work, please feel free to support me at :
