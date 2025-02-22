@@ -2,19 +2,14 @@
 
 I am the developer of [ESP3D](https://github.com/luc-github/ESP3D), [ESP3DLib](https://github.com/luc-github/ESP3DLib), [ESP3D-WEBUI](https://github.com/luc-github/ESP3D-WEBUI) and several others projects as main developer or contributor.
 
-You can have better view of my current projects [here](https://github.com/luc-github/esp3d-portfolio/blob/main/README.md) and the related documentation is on http://esp3d.io
+You can have better view of my current projects [here](https://github.com/luc-github/esp3d-portfolio/blob/main/README.md).
 
-If you need, you can contact me by email or by [discord](https://discord.com/invite/Z4ujTwE).
+If you like my contributions/work, please feel free to support me, [check here](htps://esp3d.io/sponsoring) the support/sponsoring informations, it is always nice to get support and get good mojo 😺 
 
-If you like my contributions/work, please feel free to support me at :
-* liberapay <a href="https://liberapay.com/ESP3D/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a> 
-* Paypal [<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG_global.gif" border="0" alt="PayPal – The safer, easier way to pay online.">](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FQL59C749A78L)
-* ko-fi [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G0C0QT7)
+If you need, you can contact me by email or on discord.
 
-It is always nice to get support and bring good mojo 😺 
+You can also find more informations here: https://esp3d.io
 
 Also if you use my work in your projects, do not be shy and share it, it is always nice to be mentioned.   
 
-
-[![Project Page ESP3D 3.0](https://img.shields.io/badge/Project%20page-ESP3D%203.0-blue)](https://github.com/users/luc-github/projects/1/views/1)
 
